@@ -34,60 +34,42 @@ function App() {
 
 
 
-              DERECHO PENAL
+              <a>DERECHO PENAL</a>
 
 
 
 
-              DERECHO DE
-              FAMILIA
+              <a> DERECHO DE
+              FAMILIA</a>
 
 
 
 
-              DERECHO CIVIL
+             <a>DERECHO CIVIL</a> 
 
 
 
-              DEFENSA DEL
+              <a>DEFENSA DEL
               DERECHO DE LOS
-              CONSUMIDORES
+              CONSUMIDORES</a>
 
 
-              PERSONAL
+              <a>PERSONAL
               POLICIAL Y
-              PENITENCIARIO
+              PENITENCIARIO</a>
 
 
 
-              DERECHO ADMINISTRATIVO
+              
 
 
-
-
-              DERECHO
-              COMERCIAL
-
-
-
-
-              DERECHO
-              LABORAL
-
-
-
-
-              DERECHO
-              PREVISIONAL
-
-
-              POR QUÉ ELEGIRNOS
-              Nuestro compromiso principal es brindar servicios legales de excelencia a nuestros clientes. Para lograrlo, nos apoyamos en un equipo de abogados talentosos, creativos, experimentados y calificados en diversas áreas de práctica, que comparten nuestros valores.
+              <h3>POR QUÉ ELEGIRNOS</h3>
+             <p> Nuestro compromiso principal es brindar servicios legales de excelencia a nuestros clientes. Para lograrlo, nos apoyamos en un equipo de abogados talentosos, creativos, experimentados y calificados en diversas áreas de práctica, que comparten nuestros valores.
 
               Lo que nos distingue es brindar la asesoría legal personal a cualquier persona, organización, empresa, etc. que la solicite, ajustando el costo de los servicios legales a la capacidad económica de nuestros clientes, por lo que en ningún caso, la falta de recursos económicos es motivo para dejar de brindar nuestros servicios y apoyar de esta forma a la sociedad.
 
               Nuestro objetivo es brindarle certeza jurídica y honestidad en las consultas y servicios en los que intervenimos, de esta forma usted podrá encontrar la solución jurídica que requiere en el menor tiempo y al mejor costo.
-
+</p>
             </section>
 
             <section id="contacto">
