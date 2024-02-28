@@ -31,38 +31,22 @@ function App() {
 
             <section id="areas-practica">
               <h2>ÁREAS DE PRÁCTICA</h2>
-
-
-
+              <br></br>
               <a>DERECHO PENAL</a>
-
-
-
-
+              <br></br>
               <a> DERECHO DE
               FAMILIA</a>
-
-
-
-
+              <br></br>
              <a>DERECHO CIVIL</a> 
-
-
-
+             <br></br>
               <a>DEFENSA DEL
               DERECHO DE LOS
               CONSUMIDORES</a>
-
-
+              <br></br>
               <a>PERSONAL
               POLICIAL Y
               PENITENCIARIO</a>
-
-
-
-              
-
-
+              <br></br>
               <h3>POR QUÉ ELEGIRNOS</h3>
              <p> Nuestro compromiso principal es brindar servicios legales de excelencia a nuestros clientes. Para lograrlo, nos apoyamos en un equipo de abogados talentosos, creativos, experimentados y calificados en diversas áreas de práctica, que comparten nuestros valores.
 
@@ -111,6 +95,26 @@ function App() {
                 alejandraantonio@jg-asociados.com.ar
                 veronicamonzon@jg-asociados.com.ar</p>
             </section>
+            <form action="http://localhost:3001/enviar-email" method="POST">
+
+        <div>
+            <label for="nombre">Nombre *</label>
+            <input type="text" id="nombre" name="nombre" placeholder="Su nombre" required/>
+        </div>
+        <div>
+            <label for="correo">Correo *</label>
+            <input type="email" id="correo" name="correo" placeholder="Su email" required/>
+        </div>
+        <div>
+            <label for="telefono">Teléfono</label>
+            <input type="tel" id="telefono" name="telefono" placeholder="Teléfono de contacto"/>
+        </div>
+        <div>
+            <label for="consulta">Consulta *</label>
+            <textarea id="consulta" name="consulta" placeholder="Escriba su consulta" required></textarea>
+        </div>
+        <button type="submit">ENVIAR</button>
+    </form>
           </main>
 
           <footer>
