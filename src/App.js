@@ -95,7 +95,7 @@ function App() {
                 alejandraantonio@jg-asociados.com.ar
                 veronicamonzon@jg-asociados.com.ar</p>
             </section>
-            <form action="http://localhost:3001/enviar-email" method="POST">
+        <form action="http://localhost:3001/enviar-email" method="POST">
 
         <div>
             <label for="nombre">Nombre *</label>
