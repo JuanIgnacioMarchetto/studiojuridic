@@ -118,6 +118,7 @@ function App() {
           </main>
 
           <footer>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6550.514820381991!2d-58.38938199999999!3d-34.82462!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35405a0fcef44d%3A0x1d63e264c23dcf6b!2sESTUDIO%20JUR%C3%8DDICO%20Dr.%20Eduardo%20J.%20Fandi%C3%B1o%20ABOGADO!5e0!3m2!1ses!2sus!4v1709209750988!5m2!1ses!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             <p>Desarrollado por Ingplat | JG & Asociados Estudio Jurídico</p>
           </footer>
 
